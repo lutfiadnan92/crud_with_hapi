@@ -48,7 +48,6 @@ exports.Delete = (req, res) => {
                 } else {
                     resolve(`Delete ${produk} from table produk`)
                 }
-                console.info(res)
             }).catch(err => reject(err))
     })
 }
