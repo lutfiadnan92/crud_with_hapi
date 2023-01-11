@@ -13,7 +13,7 @@
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
     "hapi-knex-postgres": "^0.1.2",
-    "knex": "^0.20.13",
+    "knex": "^2.4.0",
     "pg": "^8.0.0"
   }
 }
